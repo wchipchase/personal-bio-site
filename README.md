@@ -16,4 +16,4 @@ $ npm install -g http-server
 ## Running
 Browse to personal-bio-site directory and run http server
 
-![page of pies](https://raw.githubusercontent.com/wchipchase/pie/master/screenshots/pie.JPG "a bunch of pies")
+![personal-site](https://raw.githubusercontent.com/wchipchase/personal-bio-site/master/screenshots/personal_site.JPG "Personal Site")
